@@ -144,7 +144,9 @@ Tanda asterisk (\*) menandakan branch yang sedang aktif.
 ```
 git branch -r
 ```
-
+```
+git branch
+```
 ```
 user@host~$ git branch -r
   origin/HEAD -> origin/master
